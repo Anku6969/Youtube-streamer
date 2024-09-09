@@ -1,4 +1,4 @@
-# Youtube-streamer
+# Youtube-streamer (python)
 # TASK-1 INTERNCAREER 
 # YouTube Streamers Analysis
 This Python script performs an in-depth analysis of YouTube streamers data, including trend analysis, correlation studies, audience distribution, performance metrics, and content recommendations.
